@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARPIT SINGH</h1>
-<h3 align="center">A passionate frontend developer from uttarakhand</h3>
+<h3 align="center">A passionate frontend developer from uttarakhandI enjoy exploring how data can be transformed into insights and decisions using code, statistics, and storytelling. Currently, I'm pursuing my Bachelor of Computer Applications (BCA) at Graphic Era Hill University, Haldwani.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theycallmearpit&label=Profile%20views&color=0e75b6&style=flat" alt="theycallmearpit" /> </p>
 
